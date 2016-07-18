@@ -8,7 +8,7 @@ body{font-family: '-apple-system','HelveticaNeue'; font-size:34pt; padding-left:
 <br>
 What is Pokespy? Pokespy is an application that allows you too see locations of pokemons that are added by users.<br>
 <br>
-This is crows source system and pokemons have their life time. Pokemons locations are updated frequently by users.<br>
+This is crowd source system and pokemons have their life time. Pokemons locations are updated frequently by users.<br>
 <br>
 By purchasing PRO membership, you can view all crowd source data and add your own points. Your added pokemon locations will be visible to any user with PRO membership.<br>
 PokeSpy is a crowd source service so we kindly ask you to add correct locations of pokemons.<br>
