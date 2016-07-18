@@ -18,11 +18,11 @@
 		<key>product_id</key>
 		<string>com.viktorgulin.pokemaps.1month</string>
 		<key>title</key>
-		<string>Daily</string>
+		<string>Monthly</string>
 		<key>divide_value</key>
-		<integer>30</integer>
+		<integer>1</integer>
 		<key>badge</key>
-		<string>BEST OFFER</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
@@ -38,9 +38,9 @@
 		<key>product_id</key>
 		<string>com.viktorgulin.pokemaps.alternative.1month</string>
 		<key>title</key>
-		<string>Daily</string>
+		<string>Monthly</string>
 		<key>divide_value</key>
-		<integer>30</integer>
+		<integer>1</integer>
 		<key>badge</key>
 		<string>-50%</string>
 	</dict>
