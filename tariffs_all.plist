@@ -72,5 +72,7 @@
 <string>main</string>
 <key>alternative_delay_time</key>
 <integer>1800</integer>
+<key>discount_value</key>
+<integer>50</integer>
 </dict>
 </plist>
