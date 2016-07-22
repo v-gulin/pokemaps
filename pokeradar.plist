@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tarifs</key>
+	<array>
+		<dict>
+			<key>product_id</key>
+			<string>com.fedorlukin.pokeradar.searchpack.1</string>
+			<key>count</key>
+			<integer>10</integer>
+			<key>discount_title</key>
+			<string>-50%</string>
+		</dict>
+		<dict>
+			<key>product_id</key>
+			<string>com.fedorlukin.pokeradar.searchpack.2</string>
+			<key>count</key>
+			<integer>25</integer>
+			<key>discount_title</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>product_id</key>
+			<string>com.fedorlukin.pokeradar.searchpack.3</string>
+			<key>count</key>
+			<integer>50</integer>
+			<key>discount_title</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>product_id</key>
+			<string>com.fedorlukin.pokeradar.searchpack.4</string>
+			<key>count</key>
+			<integer>75</integer>
+			<key>discount_title</key>
+			<string>Best</string>
+		</dict>
+		<dict>
+			<key>product_id</key>
+			<string>com.fedorlukin.pokeradar.searchpack.5</string>
+			<key>count</key>
+			<integer>100</integer>
+			<key>discount_title</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>free_searches</key>
+	<integer>3</integer>
+	<key>localize</key>
+	<false/>
+</dict>
+</plist>
