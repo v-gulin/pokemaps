@@ -48,6 +48,6 @@
 	<key>free_searches</key>
 	<integer>7</integer>
 	<key>localize</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
