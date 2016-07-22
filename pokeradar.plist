@@ -46,9 +46,9 @@
 		</dict>
 	</array>
 	<key>free_searches</key>
-	<integer>7</integer>
+	<integer>3</integer>
 	<key>localize</key>
-	<true/>
+	<false/>
 	<key>search_interval</key>
 	<integer>30</integer>
 	<key>use_our_backend</key>
