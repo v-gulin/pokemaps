@@ -49,5 +49,9 @@
 	<integer>7</integer>
 	<key>localize</key>
 	<true/>
+	<key>search_interval</key>
+	<integer>30</integer>
+	<key>use_our_backend</key>
+	<false/>
 </dict>
 </plist>
