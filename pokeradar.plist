@@ -52,6 +52,6 @@
 	<key>search_interval</key>
 	<integer>30</integer>
 	<key>use_our_backend</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
