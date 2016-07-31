@@ -54,7 +54,7 @@
 <integer>1800</integer>
 <key>discount_value</key>
 <integer>50</integer>
-<key></localize>
+<key>localize</key>
 <true/>
 </dict>
 </plist>
