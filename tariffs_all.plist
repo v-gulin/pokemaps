@@ -24,26 +24,6 @@
 		<key>badge</key>
 		<string></string>
 	</dict>
-	<dict>
-		<key>product_id</key>
-		<string>com.viktorgulin.pokemaps.alternative.weekly</string>
-		<key>title</key>
-		<string>Weekly</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string>-45%</string>
-	</dict>
-	<dict>
-		<key>product_id</key>
-		<string>com.viktorgulin.pokemaps.alternative.1month</string>
-		<key>title</key>
-		<string>Monthly</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string>-50%</string>
-	</dict>
 </array>
 <key>alternative</key>
 <array>
@@ -71,8 +51,10 @@
 <key>default_tarifs</key>
 <string>main</string>
 <key>alternative_delay_time</key>
-<integer>180000</integer>
+<integer>1800</integer>
 <key>discount_value</key>
 <integer>50</integer>
+<key></localize>
+<true/>
 </dict>
 </plist>
