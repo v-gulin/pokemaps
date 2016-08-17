@@ -10,7 +10,7 @@
 		<key>title</key>
 		<string>FREE!</string>
 		<key>divide_value</key>
-		<integer>100000</integer>
+		<integer>1000000</integer>
 		<key>badge</key>
 		<string>TRY IT FOR FREE!</string>
 	</dict>
@@ -23,7 +23,7 @@
 		<key>title</key>
 		<string>FREE!</string>
 		<key>divide_value</key>
-		<integer>100000</integer>
+		<integer>1000000</integer>
 		<key>badge</key>
 		<string>TRY IT FOR FREE!</string>
 	</dict>
