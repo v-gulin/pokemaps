@@ -6,46 +6,26 @@
 <array>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.pokemaps.weekly</string>
-		<key>title</key>
-		<string>Weekly</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>product_id</key>
 		<string>com.viktorgulin.pokemaps.1month</string>
 		<key>title</key>
-		<string>Daily</string>
+		<string>FREE!</string>
 		<key>divide_value</key>
-		<integer>30</integer>
+		<integer>100000</integer>
 		<key>badge</key>
-		<string>BEST</string>
+		<string>TRY IT FOR FREE!</string>
 	</dict>
 </array>
 <key>alternative</key>
 <array>
 	<dict>
 		<key>product_id</key>
-		<string>com.viktorgulin.pokemaps.alternative.weekly</string>
-		<key>title</key>
-		<string>Weekly</string>
-		<key>divide_value</key>
-		<integer>1</integer>
-		<key>badge</key>
-		<string>-45%</string>
-	</dict>
-	<dict>
-		<key>product_id</key>
 		<string>com.viktorgulin.pokemaps.alternative.1month</string>
 		<key>title</key>
-		<string>Daily</string>
+		<string>FREE!</string>
 		<key>divide_value</key>
-		<integer>30</integer>
+		<integer>100000</integer>
 		<key>badge</key>
-		<string>-50%</string>
+		<string>TRY IT FOR FREE!</string>
 	</dict>
 </array>
 <key>default_tarifs</key>
